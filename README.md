@@ -1,6 +1,6 @@
 # cheat-sheet-vuejs
 
-## Chrome 브라우저 설정
+## chrome 브라우저 설정
 Chrome DevTools 에서 Vue.js devtools
 
 ## vscode 설정
@@ -10,3 +10,6 @@ Chrome DevTools 에서 Vue.js devtools
 
 ## 서버 실행
 좌측 EXPLORER 파일 우측 버튼 또는 우측 소스 우측 버튼 Open with Live Server 를 통해 실행
+
+## chrome 개발자 도구에서
+command + option + i 후 vue 라는 패널 선택 그 중 Components 와 Events 많이 사용
