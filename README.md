@@ -19,3 +19,24 @@ html 파일에서 !입력후 엔터 치면 기본 html 코드 생성
 
 ## Auto Close Tag EXTENSIONS 설치 효과
 html 파일에서 div#app 하고 엔터 치면 ```<div id="app"></div>``` 생성
+
+## vue cli 검색 후 설치
+
+## vue Scaffold 생성
+.vue 생성 후 vue 입력 후 탭
+아래 Scaffold 설명
+```
+<template>
+  <!-- HTML -->
+</template>
+
+<script>
+export default {
+    // Javascript
+}
+</script>
+
+<style>
+    /* css */
+</style>
+```
