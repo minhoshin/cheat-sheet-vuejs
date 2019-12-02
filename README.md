@@ -40,3 +40,13 @@ export default {
     /* css */
 </style>
 ```
+
+## ESLint 에러를 표시하지 않으려면
+프로젝트 폴더에 `vue.config.js` 파일 생성 후 아래 내용 입력
+```
+module.exports = {
+  devServer: {
+    overlay: false
+  }
+}
+```
