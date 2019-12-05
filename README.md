@@ -66,3 +66,8 @@ module.exports = {
   lintOnSave: false
 }
 ```
+
+## npm
+vue router
+vuex
+
